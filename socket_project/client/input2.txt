@@ -1,0 +1,4 @@
+GET /index3.html 127.0.0.1 65432
+GET /index4.html 127.0.0.1 65432
+POST /post_test.txt 127.0.0.1 65432
+GET /omar.txt 127.0.0.1 65432
